@@ -12,7 +12,7 @@ The table schema is located [here](/EmployeeSQL/schema.sql).
 
 ## Data Analysis
 
-I answered the following questions in this [analysis](//EmployeeSQL/Data_Analysis.sql):
+I answered the following questions in this [analysis](/EmployeeSQL/Data_Analysis.sql):
 
 - 1) List the following details of each employee: employee number, last name, first name, sex, and salary.
 - 2) List first name, last name, and hire date for employees who were hired in 1986.
